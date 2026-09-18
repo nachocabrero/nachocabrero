@@ -13,8 +13,8 @@
 
 👨‍🏫 **Profesor** en el IES P. Hermenegildo Lanz (Granada)  
 💻 **Desarrollador** · PHP · Laravel · Python · Symfony  
-🤖 **IA & Tools** · Cursor · Hermes Agent · GitHub Copilot  
-🎮 **Streamer** en formación — [Manguitos LIVE](https://manguitos.live)  
+🤖 **IA & Tools** · Cursor · Hermes Agent · GitHub Copilot · OpenCode  
+🧙‍♂️ **Maestro Jedi**  
 📍 Granada, España
 
 </div>
@@ -41,6 +41,7 @@
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 
 </div>
@@ -61,6 +62,7 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMiAxMmwxMCAxMGwxMC0xMEwxMiAyeiIvPjwvc3ZnPg==&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-FFF?style=for-the-badge&logo=github&logoColor=333)
 ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIGZpbGw9IiNGRjZCMzUiLz48L3N2Zz4=&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-6F42C1?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzZGNDJDMSIvPjwvc3ZnPg==&logoColor=white)
 
 </div>
 
@@ -72,7 +74,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_FCC614?style=for-the-badge&logo=oracle&logoColor=white)
 
 </div>
 
@@ -100,7 +101,12 @@
 |----------|-------------|
 | [gestion-dual](https://github.com/nachocabrero/gestion-dual) | Gestión Académica IES Hermenegildo Lanz |
 | [onepiece-tcg](https://github.com/nachocabrero/onepiece-tcg) | One Piece TCG Collection Manager |
-| [manguitos-tos](https://github.com/nachocabrero/manguitos-tos) | Términos de uso de Manguitos LIVE |
+
+#### 🏢 VertigoApps
+
+| Proyecto | Descripción |
+|----------|-------------|
+| [vertigoapps](https://github.com/vertigoapps) | Repositorios de VertigoApps |
 
 ---
 
@@ -108,7 +114,7 @@
 
 <div style="display: flex; gap: 12px; flex-wrap: wrap; justify-content: center;">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/ies-p-hermenegildo-lanz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nachocabrero/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nachocabrero)
 
 </div>
@@ -119,7 +125,7 @@
 
 ⭐️ Visita mis repos y dale estrella si te gustan
 
-*Hecho con ❤️ y mucho café*
+*Hecho con ❤️ y muchos currypanes*
 
 </div>
 
