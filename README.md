@@ -79,22 +79,6 @@
 
 ---
 
-### 📊 Estadísticas del Perfil
-
-<div style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nachocabrero&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-
-</div>
-
-<div style="display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nachocabrero&layout=compact&theme=dracula&hide_border=true)
-
-</div>
-
----
-
 ### 📌 Proyectos Destacados
 
 | Proyecto | Descripción |
